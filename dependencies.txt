@@ -1,0 +1,12 @@
+tensorflow
+sklearn
+numpy
+pandas
+matplotlib
+imutils
+dlib
+subprocess
+time
+cv2
+librosa
+keras
